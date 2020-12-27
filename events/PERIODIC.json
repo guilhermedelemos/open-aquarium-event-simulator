@@ -1,0 +1,54 @@
+{
+    "header": {
+        "type": "PERIODIC",
+        "eventId": "383c44a4-adf7-4831-a4f5-f4019087e8db",
+        "triggerTime": "2020-11-29T03:48:31.218Z"
+    },
+    "device": {
+        "serialNumber": "383c44a4-adf7-4831-a4f5-f4019087e8db",
+        "softwareVersion": "1.0.0",
+        "hardwareVersion": "abc",
+        "productVersion": "def"
+    },
+    "roomSample": {
+        "roomTemperature": 32.9,
+        "relativeHumidity": 40.2,
+        "uvLight": null,
+        "visibleLight": null,
+        "carbonDioxideGas": null,
+        "atmosphericPressure": null,
+        "ammoniumGas": null,
+        "nitricOxideGas": null,
+        "alcohol": null,
+        "benzene": null,
+        "sulfuricGas": null,
+        "smoke": null,
+        "methane": null,
+        "carbonMonoxide": null,
+        "hidrogen": null,
+        "inflammableGases": null
+    },
+    "waterSample": {
+        "temperature": 28.1,
+        "alkalineReserve": null,
+        "calcium": null,
+        "magnesium": null,
+        "phosphate": null,
+        "nitrate": null,
+        "nitrite": null,
+        "salinity": null,
+        "ammonia": null,
+        "potentialOfHydrogen": null,
+        "silica": null,
+        "strontium": null,
+        "boron": null,
+        "totalDissolvedSolids": null,
+        "chlorine": null,
+        "freeChlorine": null,
+        "carbonDioxide": null,
+        "carbonatedHardness": null,
+        "generalHardness": null,
+        "pumpFlow": null,
+        "waterLevel": null
+    }
+}
