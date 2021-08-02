@@ -1,1 +1,1 @@
-# open-aquarium-event-simulator
+# Open Aquarium - Event Simulator
